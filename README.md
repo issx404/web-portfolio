@@ -2,7 +2,7 @@
 
 ## Описание проекта
 
-Сайт вдохновлен палитрой цветов [Kanagawa The Great Wave](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa) и сделан полностью на [Next.js](https://nextjs.org) и наhttps://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa данный момент созданы целые компоненты (блоками) без мелких ui компонентов. Современем, данный проект будет улучшаться...
+Сайт вдохновлен палитрой цветов [Kanagawa The Great Wave](https://en.wikipedia.org/wiki/The_Great_Wave_off_Kanagawa) и сделан полностью на [Next.js](https://nextjs.org) и на данный момент созданы целые компоненты (блоками) без мелких ui компонентов. Современем, данный проект будет улучшаться...
 
 ## Гайд по развертыванию на своем сервере
 

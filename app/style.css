@@ -196,7 +196,8 @@ body::-webkit-scrollbar {
 .recent_title,
 .links_title,
 .banners_title,
-.about_title {
+.about_title,
+.letter_title {
   background-color: var(--color-titles);
   color: var(--color-text-1);
   border-radius: 8px;
@@ -292,6 +293,29 @@ body::-webkit-scrollbar {
 
 .slider_icon:hover {
   transform: translateY(-5px) scale(1.05);
+}
+.letter_form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.letter_form button {
+  align-self: flex-end;
+}
+.letterbox {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  gap: 20px;
+}
+
+.textarea {
+  width: 90%;
+  height: 100px;
+  align-self: center;
+  border: 2px solid var(--color-items-2);
+  border-radius: 4px;
 }
 
 /* Стили для .banners */

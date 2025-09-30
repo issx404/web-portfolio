@@ -2,6 +2,7 @@ import About from "./components/About";
 import Avatar from "./components/Avatar";
 import Recent from "./components/Recent";
 import Links from "./components/Links";
+import Letterbox from "./components/Letterbox";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
         />
         <Recent />
         <Links />
+        <Letterbox />
         <div className="banners">
           <div className="banners_title">BANNERS</div>
           <div className="banners_icon">
